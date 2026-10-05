@@ -1,0 +1,12 @@
+{
+  "name": "telegram-whatsapp-control-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot starter for a legitimate WhatsApp connection service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
